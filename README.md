@@ -1,10 +1,10 @@
 # Chomt
 
-Regular expression tool implemeted in C
+Regular expressions (FSM) implemetation in C
 
 ## Quick start
 
 ```console
 $ make
-$ ./chomt <regexp>
+$ ./chomt
 ```
